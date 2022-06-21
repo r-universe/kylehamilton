@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lavaan.shiny"]
+	path = lavaan.shiny
+	url = https://github.com/kylehamilton/lavaan.shiny
+	shallow = true
+	registered = true
