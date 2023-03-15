@@ -1,5 +1,13 @@
 [
   {
+    "package": "CTTShiny",
+    "oncran": true
+  },
+  {
+    "package": "IRTShiny",
+    "oncran": true
+  },
+  {
     "package": "lavaan.shiny",
     "oncran": true
   }

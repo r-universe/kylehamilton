@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CTTShiny"]
+	path = CTTShiny
+	url = https://github.com/kylehamilton/cttshiny
+	shallow = true
+	registered = true
+[submodule "IRTShiny"]
+	path = IRTShiny
+	url = https://github.com/kylehamilton/irtshiny
+	shallow = true
+	registered = true
 [submodule "lavaan.shiny"]
 	path = lavaan.shiny
 	url = https://github.com/kylehamilton/lavaan.shiny
