@@ -8,6 +8,9 @@
 [submodule "IRTShiny"]
 	path = IRTShiny
 	url = https://github.com/kylehamilton/irtshiny
+[submodule "horsey"]
+	path = horsey
+	url = https://github.com/kylehamilton/horsey
 [submodule "lavaan.shiny"]
 	path = lavaan.shiny
 	url = https://github.com/kylehamilton/lavaan.shiny
